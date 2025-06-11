@@ -1,2 +1,3 @@
-# HexSoftware
-HexSoftwares
+#HEXSOFTWARE-ANDRIOD APPLICATION 
+#Tasha Govender
+TASK 1
